@@ -1,0 +1,3 @@
+memoize it:
+realize that u always get a continuous set of 1's
+so memo= from ith pos to jth(jth pos-until da end of 1's)
